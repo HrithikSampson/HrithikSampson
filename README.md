@@ -32,4 +32,4 @@ React | Next.js | TailwindCSS
 Docker | GitHub Actions | Nginx | AWS
 ```
 
-<img src="https://metrics.lecoq.io/HrithikSampson?template=classic&base.indepth=false&config.timezone=Asia%2FCalcutta" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HrithikSampson&show_icons=true&theme=github_dark" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HrithikSampson&theme=github-dark" /> </p>
