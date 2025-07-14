@@ -5,6 +5,10 @@
 
 ---
 
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HrithikSampson&show_icons=true&theme=github_dark" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HrithikSampson&theme=github-dark" /> </p>
+
 ### 🧠 About Me
 
 - 🔧 Backend-focused engineer building scalable and maintainable systems
@@ -31,5 +35,3 @@ React | Next.js | TailwindCSS
 // DevOps
 Docker | GitHub Actions | Nginx | AWS
 ```
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HrithikSampson&show_icons=true&theme=github_dark" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HrithikSampson&theme=github-dark" /> </p>
