@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Hrithik Sampson 👋</h1>
 <p align="center">
-  <em>Backend & Full-Stack Developer | Node.js, TypeScript, PostgreSQL, Redis</em>
+  <em>Backend & Full-Stack Developer | Java, Flink, AWS, Node.js, TypeScript, PostgreSQL, Redis</em>
 </p>
 
 ---
