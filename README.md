@@ -12,8 +12,7 @@
 ### 🧠 About Me
 
 - 🔧 Backend-focused engineer building scalable and maintainable systems
-- 💼 Currently contributing at **Giveth** and **General Magic**
-- 🧪 Strong expertise in **Node.js, Redis, PostgreSQL, BullMQ, TypeORM**
+- 💼 Past contributing at **Giveth** and **General Magic**, **TCS(General Motors)**
 - ⚙️ DevOps experience with **Docker, CI/CD, AWS**
 - 👨‍💻 Passionate about performance optimization, clean architecture, and automation
 - 🧘 Outside of code, I enjoy system design, OSS, and solving real-world backend problems
